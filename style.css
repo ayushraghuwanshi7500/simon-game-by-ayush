@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+  background-color: #0f4c75;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+#title-name{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+.container {
+  display: block;
+  width: 50%;
+  padding-left: 75px;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.ayush_img {
+  width: 15%;
+  border-radius: 100%;
+  text-align: center;
+  position: relative;
+  left: 290px;
+
+}
+
+#footer {
+  text-align: center;
+  background-color: #00b7c2;
+  padding: 30px;
+  height: 330px;
+
+}
+
+.foot-text {
+  color: #fff;
+    position: relative;
+    top:80px;
+}
+
+.footer-link {
+  color: #fff;
+  margin: 20px 70px 20px;
+  position: relative;
+  right: 90px;
+  top:150px;
+}
+
+.ayush_img {
+  width: 15%;
+  border-radius: 100%;
+  /* border-radius: 50%; */
+}
+
+.fa:hover{
+  color:#fdcb9e;
+}
